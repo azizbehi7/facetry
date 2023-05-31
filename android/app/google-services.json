@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "53765447468",
+    "project_id": "faceplus-1afee",
+    "storage_bucket": "faceplus-1afee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53765447468:android:0d9ef59b95ba900be2d689",
+        "android_client_info": {
+          "package_name": "com.example.faceplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53765447468-57ipov1cspff7j3n4rqgvfq2ba7n3mu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5oqDDE_2w6FY7dbeyHGRCmBkH9ZUJB7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53765447468-57ipov1cspff7j3n4rqgvfq2ba7n3mu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
